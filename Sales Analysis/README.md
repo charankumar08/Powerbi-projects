@@ -42,10 +42,10 @@ I designed this dashboard to solve **8 specific business problems** defined in t
 ## 🖼️ Dashboard Preview
 > **Note:** To see the full interactivity, please download the `.pbix` file.
 
-![Main Dashboard](file:///C:/Users/HP/Desktop/Power%20Bi/Project%201/Dashborad.pdf)  
+![Main Dashboard]()  
 *Figure 1: Executive Sales Overview & Geographical Distribution*
 
-![Product Insights](file:///C:/Users/HP/Desktop/Power%20Bi/Project%201/Dashborad.pdf)  
+![Product Insights]()  
 *Figure 2: Top/Bottom Product Performance & Profitability*
 
 ---
