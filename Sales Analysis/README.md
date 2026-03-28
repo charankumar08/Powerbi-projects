@@ -42,10 +42,10 @@ I designed this dashboard to solve **8 specific business problems** defined in t
 ## 🖼️ Dashboard Preview
 > **Note:** To see the full interactivity, please download the `.pbix` file.
 
-![Main Dashboard](./Screenshots/Dashboard_Overview.png)  
+![Main Dashboard](file:///C:/Users/HP/Desktop/Power%20Bi/Project%201/Dashborad.pdf)  
 *Figure 1: Executive Sales Overview & Geographical Distribution*
 
-![Product Insights](./Screenshots/Product_Insights.png)  
+![Product Insights](file:///C:/Users/HP/Desktop/Power%20Bi/Project%201/Dashborad.pdf)  
 *Figure 2: Top/Bottom Product Performance & Profitability*
 
 ---
@@ -70,4 +70,4 @@ I designed this dashboard to solve **8 specific business problems** defined in t
 4.  Filter by **Promotion Name** to see which discounts drive the most profit.
 
 ---
-[⬅️ Back to Power BI Projects Portfolio](../README.md)
+[⬅️ Back to Power BI Projects Portfolio]([../README.md](https://github.com/charankumar08/Powerbi-projects/tree/main))
