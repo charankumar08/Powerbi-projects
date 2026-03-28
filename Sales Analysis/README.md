@@ -70,4 +70,4 @@ I designed this dashboard to solve **8 specific business problems** defined in t
 4.  Filter by **Promotion Name** to see which discounts drive the most profit.
 
 ---
-[⬅️ Back to Power BI Projects Portfolio]([../README.md](https://github.com/charankumar08/Powerbi-projects/tree/main))
+[⬅️ Back to Power BI Projects Portfolio](https://github.com/charankumar08/Powerbi-projects/tree/main)
