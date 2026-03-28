@@ -42,10 +42,10 @@ I designed this dashboard to solve **8 specific business problems** defined in t
 ## 🖼️ Dashboard Preview
 > **Note:** To see the full interactivity, please download the `.pbix` file.
 
-![Main Dashboard]()  
+![Main Dashboard](https://github.com/charankumar08/Powerbi-projects/blob/main/Sales%20Analysis/Dashborad.pdf)  
 *Figure 1: Executive Sales Overview & Geographical Distribution*
 
-![Product Insights]()  
+![Product Insights](https://github.com/charankumar08/Powerbi-projects/blob/main/Sales%20Analysis/Dashborad.pdf)  
 *Figure 2: Top/Bottom Product Performance & Profitability*
 
 ---
