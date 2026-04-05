@@ -43,7 +43,7 @@ SELECT TOP 10 * FROM InsuranceRecords;
 3. Select the SQL Server source and click **Change Source**.
 4. Update the **Server** field to your local instance name:
    ```text
-   Server: LAPTOP-6GDIGOSM\SQLEXPRESS
+   Server: LAPTOP-6GDIXXSM\SQLEXPRESS
    Database: Insurancedb
 
 ## 📂 Repository Structure
