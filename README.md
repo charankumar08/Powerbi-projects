@@ -17,9 +17,9 @@ Welcome to my centralized hub for Business Intelligence projects. This repositor
 
 | Project Name | Key Tools Used | Core Focus | Link |
 | :--- | :--- | :--- | :--- |
-| **Insurance Data Analysis** | SQL Server, RLS, AI Insights | End-to-End Insurance Lifecycle | [View Project](./Insurance%20Data%20Analysis/) |
-| **Sales Analysis** | Power Query, Global Slicers | Revenue & Trend Monitoring | [View Project](./Sales%20Analysis/) |
-
+| **Insurance Data Analysis** | SQL Server, RLS, AI Insights | End-to-End Insurance Lifecycle | [View Project](https://github.com/charankumar08/Power-Bi-projects/tree/main/Insurance%20Data%20Analysis) |
+| **Sales Analysis** | Power Query, Global Slicers | Revenue & Trend Monitoring | [View Project](https://github.com/charankumar08/Power-Bi-projects/tree/main/Sales%20Analysis) |
+| **UPI Transactions Analysis** | Power Query, Bookmarks, Advanced UI | Dynamic Metric Switching & Pixel-Perfect Layout | [View Project](https://github.com/charankumar08/Power-Bi-projects/tree/main/UPI%20Transactions%20Analysis) |
 ---
 
 ## 🛠️ Technical Stack & Tools
